@@ -20,19 +20,29 @@ This project covers the following key questions:
 
 ## 🛠️  Tools Used
 . Microsoft Excel (Advanced)
+
 . Pivot Tables & Pivot Charts
+
 . Slicers & Conditional Formatting
+
 . KPI Cards & Custom Color Themes
+
 . Data Cleaning & Visualization
 
 ## 🧠Techniques
 . Data Cleaning & Preparation: Handling missing values, formatting, and structuring data for analysis
+
 . Exploratory Data Analysis (EDA): Identifying trends, patterns, and anomalies
+
 . Visualization: Charts and graphs to highlight insights (e.g., bar charts, line plots, heatmaps)
+
 . Business Insights: Recommendations based on findings to improve sales strategy
 
 ## 🚀 Expected Outcomes
 . Identification of peak sales hours and days for staffing and promotions
+
 . Insights into monthly revenue trends for financial planning
+
 . Comparison of store performance to optimize resource allocation
+
 . Recognition of top-performing products and categories to guide inventory decisions
