@@ -46,3 +46,7 @@ This project covers the following key questions:
 . Comparison of store performance to optimize resource allocation
 
 . Recognition of top-performing products and categories to guide inventory decisions
+## Dashboard video
+https://github.com/user-attachments/assets/ea66df02-d8c2-418f-826e-838a8a164927
+
+
