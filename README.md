@@ -5,11 +5,17 @@ The main objective of this project is to analyze retail sales data from a coffee
 ## 🔍 Recommended Analysis
 This project covers the following key questions:
 . How do sales vary by day of the week and hour of the day?
+
 · Are there any peak times for sales activity?
+
 · What is the total sales revenue for each month?
+
 · How do sales vary across different store locations?
-· what is the average price/order per person
+
+· what is the average price/order per person?
+
 · Which products are the best-selling in terms of quantity and revenue?
+
 · How do sales vary by product category and type?
 
 ## 🛠️  Tools Used
